@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd539015-c08f-45cd-b226-1969cd0ef5fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ejercicio1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/HolaMundo/build/built-jar.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion1/HolaMundo/build/built-jar.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/HolaMundo/build/classes/HolaMundo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion1/HolaMundo/build/classes/HolaMundo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leccion3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leccion4/EjercicioRangos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leccion4/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicio_6/src/Ejercicio6/Ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion1/Ejercicio_6/src/Ejercicio6/Ejercicio6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/HolaMundo/src/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion1/HolaMundo/src/HolaMundo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +41,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Leccion3" />
   </component>
   <component name="RunManager" selected="Python.Ejercicio2">
     <configuration name="Ejercicio1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
