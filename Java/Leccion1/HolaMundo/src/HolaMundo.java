@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class HolaMundo {
 
     public static void main(String[] args) {
-        /* System.out.println("Hola Mundo desde Java");
+        /*System.out.println("Hola Mundo desde Java");
         
         int miVariable = 10;
         System.out.println(miVariable);
@@ -14,8 +14,8 @@ public class HolaMundo {
         String miVariableCadena = "Bienvenidos";
         System.out.println(miVariableCadena);
         miVariableCadena = "Sigamos creciendo en Programacion";
-        System.out.println(miVariableCadena);
-         */
+        System.out.println(miVariableCadena);*/
+        
 
         //Var - Inferencia de tipos en Java
         /*var miVariableEntera2 = 10;
