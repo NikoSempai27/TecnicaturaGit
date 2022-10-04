@@ -13,4 +13,3 @@ while not salir:
 lista.sort() # La lista esta ordenada con esta funcion
 print(f'\nLista ordenada: \n{lista}')
 
-# Empiezo la clase 5, hacer toda la clase 4 de java ahora
