@@ -66,4 +66,37 @@ def listarNombres(*nombres): # Normalmente se utiliza *args
     for nombre in nombres: #Se va a convertir en una tupla
         print(nombre)
 listarNombres('Lucas', 'Jose', 'Claudia', 'Rosa', 'Maria')
-listarNombres('Marcos', 'Daniel', 'Romina', 'Marcela', 'Carlos')
+listarNombres('Marcos', 'Daniel', 'Romina', 'Marcela', 'Carlos') # Quede en comenzar la clase 7 de python me falta la 6 de Java
+
+def listarTerminos(**terminos): # Lo mas utilizado es **kwargs para recibir los argumentos
+    for llave, valor in terminos.items(): # kwargs significa key word arguments
+        print(f'{llave} : {valor}')
+
+listarTerminos() # No recibe nada no muestra nada
+listarTerminos(IDE='Integrated Develoment Enviroment', PK='Primaruy Key')
+listarTerminos(Nombre='Leonel Messi')
+
+def desplegarNombres(nombres):
+    for nombre in nombres:
+        print(nombre)
+nombres2 = ['Lito', 'Pedro', 'Carlos']
+desplegarNombres(nombres2)
+desplegarNombres('Carla')
+# desplegarNombres(10, 11) # No es un objeto iterable
+desplegarNombres((10, 11)) # La convertimos a una tupla
+desplegarNombres([22, 55]) # A la funcion la convertimos a una lista
+
+# Funciones Recursivas
+def factorial(numero):
+    if numero == 1: # Caso base
+        return 1
+    else:
+        return numero * factorial(numero-1) # Caso recursivo
+
+resultado = factorial(5) # Lo hacemos en codigo duro
+print(f'El factorial del numero 5 es: {resultado}') # Tarea que el usuario digite el numero para calcular el factorial
+
+miFactorial = int(input('Digite un numero: '))
+resultado = factorial(miFactorial)
+print(f'El factorial del numero {miFactorial} es: {resultado}')
+
