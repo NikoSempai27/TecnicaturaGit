@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b68af0ea-fcf5-4545-aef5-1bd0dab87500" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/HolaMundo/build/built-jar.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion1/HolaMundo/build/built-jar.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion1/HolaMundo/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion1/HolaMundo/nbproject/private/private.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion3/LeccionClaseObjetos/src/Clases/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion3/LeccionClaseObjetos/src/Clases/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion4/Aritmetica/src/Operaciones/Aritmetica.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion4/Aritmetica/src/Operaciones/Aritmetica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Leccion4/Aritmetica/src/Operaciones/PruebaAritmetica.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/Leccion4/Aritmetica/src/Operaciones/PruebaAritmetica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
