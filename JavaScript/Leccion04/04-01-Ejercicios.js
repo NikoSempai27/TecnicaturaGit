@@ -158,5 +158,3 @@ function getDay(n){
 }
 console.log(getDay(5));
 
-
-
